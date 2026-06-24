@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IshanGauri07/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/IshanGauri07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/IshanGauri07/LeetCode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/IshanGauri07/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/IshanGauri07/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/IshanGauri07/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/IshanGauri07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/IshanGauri07/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/IshanGauri07/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -93,5 +95,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/IshanGauri07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/IshanGauri07/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
