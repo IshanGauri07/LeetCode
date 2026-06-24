@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/IshanGauri07/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/IshanGauri07/LeetCode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/IshanGauri07/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/IshanGauri07/LeetCode/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/IshanGauri07/LeetCode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IshanGauri07/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/IshanGauri07/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/IshanGauri07/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
