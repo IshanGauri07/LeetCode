@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IshanGauri07/LeetCode/tree/master/0001-two-sum) |
+| [0485-max-consecutive-ones](https://github.com/IshanGauri07/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
