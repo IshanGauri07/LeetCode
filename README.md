@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/IshanGauri07/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/IshanGauri07/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/IshanGauri07/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/IshanGauri07/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/IshanGauri07/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/IshanGauri07/LeetCode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/IshanGauri07/LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/IshanGauri07/LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/IshanGauri07/LeetCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
