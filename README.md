@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/IshanGauri07/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/IshanGauri07/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/IshanGauri07/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/IshanGauri07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/IshanGauri07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/IshanGauri07/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IshanGauri07/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/IshanGauri07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/IshanGauri07/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IshanGauri07/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/IshanGauri07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/IshanGauri07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IshanGauri07/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
