@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/IshanGauri07/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/IshanGauri07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/IshanGauri07/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/IshanGauri07/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/IshanGauri07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1470-shuffle-the-array](https://github.com/IshanGauri07/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/IshanGauri07/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IshanGauri07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshanGauri07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/IshanGauri07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0525-contiguous-array](https://github.com/IshanGauri07/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/IshanGauri07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/IshanGauri07/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/IshanGauri07/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/IshanGauri07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IshanGauri07/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
