@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/IshanGauri07/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/IshanGauri07/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Queue
 |  |
 | ------- |
@@ -180,4 +181,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/IshanGauri07/LeetCode/tree/master/0169-majority-element) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/IshanGauri07/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/IshanGauri07/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/IshanGauri07/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
