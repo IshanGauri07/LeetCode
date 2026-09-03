@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/IshanGauri07/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IshanGauri07/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/IshanGauri07/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/IshanGauri07/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/IshanGauri07/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/IshanGauri07/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/IshanGauri07/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/IshanGauri07/LeetCode/tree/master/0509-fibonacci-number) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/IshanGauri07/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
