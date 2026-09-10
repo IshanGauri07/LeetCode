@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/IshanGauri07/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/IshanGauri07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/IshanGauri07/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/IshanGauri07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/IshanGauri07/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -196,16 +197,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/IshanGauri07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/IshanGauri07/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/IshanGauri07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/IshanGauri07/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/IshanGauri07/LeetCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/IshanGauri07/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/IshanGauri07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/IshanGauri07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/IshanGauri07/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
