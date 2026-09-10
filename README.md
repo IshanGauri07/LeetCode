@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/IshanGauri07/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/IshanGauri07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/IshanGauri07/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/IshanGauri07/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/IshanGauri07/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/IshanGauri07/LeetCode/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/IshanGauri07/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/IshanGauri07/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
