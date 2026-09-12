@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/IshanGauri07/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/IshanGauri07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/IshanGauri07/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/IshanGauri07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/IshanGauri07/LeetCode/tree/master/0344-reverse-string) |
@@ -214,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/IshanGauri07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/IshanGauri07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/IshanGauri07/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/IshanGauri07/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/IshanGauri07/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
