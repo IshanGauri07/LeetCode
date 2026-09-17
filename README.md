@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshanGauri07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/IshanGauri07/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/IshanGauri07/LeetCode/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IshanGauri07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Memoization
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/IshanGauri07/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/IshanGauri07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/IshanGauri07/LeetCode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IshanGauri07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/IshanGauri07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/IshanGauri07/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Queue
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/IshanGauri07/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/IshanGauri07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/IshanGauri07/LeetCode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IshanGauri07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/IshanGauri07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/IshanGauri07/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/IshanGauri07/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/IshanGauri07/LeetCode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IshanGauri07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/IshanGauri07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/IshanGauri07/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Stack
@@ -234,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/IshanGauri07/LeetCode/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IshanGauri07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IshanGauri07/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
