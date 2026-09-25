@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/IshanGauri07/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/IshanGauri07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/IshanGauri07/LeetCode/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/IshanGauri07/LeetCode/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/IshanGauri07/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/IshanGauri07/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IshanGauri07/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/IshanGauri07/LeetCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/IshanGauri07/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Tree
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/IshanGauri07/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/IshanGauri07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/IshanGauri07/LeetCode/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/IshanGauri07/LeetCode/tree/master/0867-transpose-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
